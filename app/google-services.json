@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "388363651029",
+    "project_id": "pepperscasino",
+    "storage_bucket": "pepperscasino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388363651029:android:acf1b07a75a68a42c91f5c",
+        "android_client_info": {
+          "package_name": "com.example.pepperblackjackcasino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkwWrVCp-ogg5pcf-7CIf1yvJM9zClDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388363651029:android:b4b35f9c4ad85373c91f5c",
+        "android_client_info": {
+          "package_name": "com.pepper.blackjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkwWrVCp-ogg5pcf-7CIf1yvJM9zClDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388363651029:android:2be561dd3f6e82e9c91f5c",
+        "android_client_info": {
+          "package_name": "pepper.mobile.peppermobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkwWrVCp-ogg5pcf-7CIf1yvJM9zClDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388363651029-bb64m0sg0m3a29bkj3kjhf79ap33qfqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
